@@ -1,0 +1,6 @@
+body { font-family: Arial, Helvetica, sans-serif; margin: 20px; }
+table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+th, td { border: 1px solid #ddd; padding: 8px; }
+th { background: #f4f4f4; }
+button { margin-right: 6px; }
+.page { max-width: 900px; margin: 0 auto; }
